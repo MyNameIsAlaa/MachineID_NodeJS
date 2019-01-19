@@ -1,4 +1,19 @@
 {
-  "name": "crossplatformmachineid",
-  "version": "1.0"
+  "name": "uniquemachineid",
+  "version": "1.0.0",
+  "description": "Generate unique machine ID on muliple platforms: linux, windows, macos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyNameIsAlaa/MachineID_NodeJS.git"
+  },
+  "author": "Alaa Selim <alaa0selim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyNameIsAlaa/MachineID_NodeJS/issues"
+  },
+  "homepage": "https://github.com/MyNameIsAlaa/MachineID_NodeJS#readme"
 }
